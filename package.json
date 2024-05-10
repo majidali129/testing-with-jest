@@ -1,0 +1,14 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Started to learn testing ",
+  "main": "a.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Majid Ali",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
